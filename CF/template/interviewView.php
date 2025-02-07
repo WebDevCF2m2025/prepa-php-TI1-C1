@@ -173,5 +173,8 @@
                             </div>
                     </section>
         </main>
+        <?php
+  include "inc/footerIncView.php";
+  ?>
     </body>
     </html>         

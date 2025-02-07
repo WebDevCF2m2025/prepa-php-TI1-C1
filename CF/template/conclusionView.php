@@ -26,5 +26,8 @@
                     Grâce à cette préformation, je me sens prêt à aborder la suite de mon parcours avec confiance et détermination. J'ai hâte de continuer à apprendre, à progresser et à concrétiser ces premières aspirations.</p>
             </div>
         </main>
+        <?php
+  include "inc/footerIncView.php";
+  ?>
     </body>
 </html>

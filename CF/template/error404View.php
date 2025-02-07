@@ -19,5 +19,8 @@
                     <p class="p-conclusion">Cette page n'existe plus</p>
             </div>
         </main>
+        <?php
+  include "inc/footerIncView.php";
+  ?>
     </body>
 </html>

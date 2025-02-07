@@ -24,5 +24,8 @@
         <h2 class="secondmain-title">Web developer</h2>
     </div>
   </main>
+  <?php
+  include "inc/footerIncView.php";
+  ?>
 </body>
  </html>

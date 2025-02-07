@@ -229,4 +229,13 @@ hr{
    
 }
 
+footer{
+    text-align: center;
+    color: white;
+    font-size: 3em;
+    font-family: orbitron, sans-serif;
+    /* padding-left: 48%; */
+    white-space: nowrap;
+    padding-top: 1.5em;
+}
 
