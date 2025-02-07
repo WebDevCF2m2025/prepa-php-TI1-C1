@@ -15,11 +15,12 @@ Nous avons 4 fichiers html, nommés:
 - Exposition.html
 - Interview.html
 
-Deux autres dossier `front end` sont présents :
+Deux autres dossiers `front end` sont présents :
 
 - css
 - Image
 
 ## Création d'une structure permettant l'utilisation du contrôleur frontal
 
-Nous allons créer un dossier nommé `CF` qui contiendra le site modifié.
+Nous allons créer un dossier :open_file_folder: nommé `CF` qui contiendra le site modifié.
+
