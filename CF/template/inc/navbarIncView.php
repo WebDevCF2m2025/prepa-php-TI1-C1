@@ -1,6 +1,6 @@
 <nav>
-    <a href="index.html">Accueil</a>
-    <a href="Interview.html">Rapport d'entreprise</a>
-    <a href="Exposition.html">Exposition</a>
-    <a href="Conclusion.html">Conclusion</a>
+    <a href="./">Accueil</a>
+    <a href="./?p=interview">Rapport d'entreprise</a>
+    <a href="./?p=expo">Exposition</a>
+    <a href="./?p=conclusion">Conclusion</a>
   </nav>
