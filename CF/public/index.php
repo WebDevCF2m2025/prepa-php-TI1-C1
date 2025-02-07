@@ -5,3 +5,5 @@
 Front Controller  
 */
 
+// view homepage
+include "../template/homepageView.php";
